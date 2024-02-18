@@ -1,0 +1,20 @@
+{
+  "type": "library",
+  "name": "wcoreing/wcore",
+  "homepage": "",
+  "description": "tools for PHP",
+  "license": "",
+  "authors": [
+    {
+      "name": "weining",
+      "email": "178441367@qq.com",
+      "homepage": ""
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "keywords": [
+    "tools"
+  ]
+}
