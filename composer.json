@@ -3,7 +3,7 @@
   "name": "wcoreing/wcore",
   "homepage": "",
   "description": "tools for PHP",
-  "license": "",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "weining",
